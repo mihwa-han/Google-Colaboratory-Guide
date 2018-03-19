@@ -48,7 +48,7 @@ This github page summarize the posting to help others (including me) to start to
         !echo {vcode} | google-drive-ocamlfuse -headless -id={creds.client_id} -secret={creds.client_secret}
 
 2. When you run the code, you can see "Go to the following link in your browser:"
-Click  the link and copy verificiation code and paste it to text box with "Enter verification code:"
+<b>Click</b>  the link and <b>copy</b> verificiation code and <b>paste</b> it to text box with "Enter verification code:"
 
 3. Mount your Google Drive:
 
