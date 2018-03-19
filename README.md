@@ -31,7 +31,7 @@ This github page summarize the posting to help others (including me) to start to
 5. Done!! Let's use Google Colab.
 
 
-## Wait, import libraries doesn't work! Follow here:
+## Wait, import libraries doesn't work! Run these codes first to install the necessary libraries and perform authorization.
 1. Run the scripts below:
 
         !apt-get install -y -qq software-properties-common python-software-properties module-init-tools
