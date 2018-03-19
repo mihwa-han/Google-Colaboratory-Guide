@@ -12,11 +12,11 @@ This github page summarize the posting to help others (including me) to start to
 
 2. Create Jupyter Notebook File via
 
-    Right click > More > Colaboratory
+    <b>Right click</b>  > <b>More</b>  > <b>Colaboratory</b> 
     
 3. <b>Setting Free GPU</b>
 
-    Edit > Notebook setting 
+    <b>Edit</b>  > <b>Notebook setting</b>  
     
         Runtime type (either Python 2 or Python 3)
         Hardware accelerator > GPU
